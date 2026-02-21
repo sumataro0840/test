@@ -1,0 +1,13 @@
+新しいリポジトリ
+githubでリポジトリを作成
+ローカルフォルダにgithubのurlをコピーしてクローン
+
+
+取り込み時
+git pull
+
+
+更新時
+git add .
+git commit -m "変更内容"
+git push
